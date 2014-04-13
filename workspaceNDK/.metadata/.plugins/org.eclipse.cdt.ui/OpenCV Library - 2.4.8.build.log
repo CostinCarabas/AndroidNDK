@@ -1,0 +1,9 @@
+
+**** Build of configuration Default for project OpenCV Library - 2.4.8 ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-16 is larger than android:minSdkVersion 8 in ./AndroidManifest.xml    
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/build/core/build-shared-library.mk:23: *** Android NDK: Please correct error. Aborting    .  Stop.
+Android NDK: LOCAL_MODULE definition in jni/Android.mk must not contain space    
+
+**** Build Finished ****

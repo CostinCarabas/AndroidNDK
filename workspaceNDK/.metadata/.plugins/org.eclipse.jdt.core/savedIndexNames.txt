@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/costin/Android/workspaceNDK/.metadata/.plugins/org.eclipse.jdt.core
+1872069001.index
