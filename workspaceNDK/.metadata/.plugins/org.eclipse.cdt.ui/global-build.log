@@ -2670,3 +2670,658 @@ Android NDK:     current module
 [armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
 
 **** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 11 in ./AndroidManifest.xml    
+jni/Android.mk:8: ../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 11 in ./AndroidManifest.xml    
+[armeabi] Compile++ thumb: QR <= QR.cpp
+[armeabi] Prebuilt       : libopencv_java.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] StaticLibrary  : libstdc++.a
+[armeabi] SharedLibrary  : libQR.so
+[armeabi] Install        : libQR.so => libs/armeabi/libQR.so
+[armeabi] Prebuilt       : libnative_camera_r2.2.0.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r2.2.0.so => libs/armeabi/libnative_camera_r2.2.0.so
+[armeabi] Prebuilt       : libnative_camera_r2.3.3.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r2.3.3.so => libs/armeabi/libnative_camera_r2.3.3.so
+[armeabi] Prebuilt       : libnative_camera_r3.0.1.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r3.0.1.so => libs/armeabi/libnative_camera_r3.0.1.so
+[armeabi] Prebuilt       : libnative_camera_r4.0.0.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.0.0.so => libs/armeabi/libnative_camera_r4.0.0.so
+[armeabi] Prebuilt       : libnative_camera_r4.0.3.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.0.3.so => libs/armeabi/libnative_camera_r4.0.3.so
+[armeabi] Prebuilt       : libnative_camera_r4.1.1.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.1.1.so => libs/armeabi/libnative_camera_r4.1.1.so
+[armeabi] Prebuilt       : libnative_camera_r4.2.0.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.2.0.so => libs/armeabi/libnative_camera_r4.2.0.so
+[armeabi] Prebuilt       : libnative_camera_r4.3.0.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.3.0.so => libs/armeabi/libnative_camera_r4.3.0.so
+[armeabi] Prebuilt       : libnative_camera_r4.4.0.so <= ../../adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi/
+[armeabi] Install        : libnative_camera_r4.4.0.so => libs/armeabi/libnative_camera_r4.4.0.so
+[armeabi] Install        : libopencv_java.so => libs/armeabi/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 11 in ./AndroidManifest.xml    
+[armeabi] Install        : libQR.so => libs/armeabi/libQR.so
+[armeabi] Install        : libnative_camera_r2.2.0.so => libs/armeabi/libnative_camera_r2.2.0.so
+[armeabi] Install        : libnative_camera_r2.3.3.so => libs/armeabi/libnative_camera_r2.3.3.so
+[armeabi] Install        : libnative_camera_r3.0.1.so => libs/armeabi/libnative_camera_r3.0.1.so
+[armeabi] Install        : libnative_camera_r4.0.0.so => libs/armeabi/libnative_camera_r4.0.0.so
+[armeabi] Install        : libnative_camera_r4.0.3.so => libs/armeabi/libnative_camera_r4.0.3.so
+[armeabi] Install        : libnative_camera_r4.1.1.so => libs/armeabi/libnative_camera_r4.1.1.so
+[armeabi] Install        : libnative_camera_r4.2.0.so => libs/armeabi/libnative_camera_r4.2.0.so
+[armeabi] Install        : libnative_camera_r4.3.0.so => libs/armeabi/libnative_camera_r4.3.0.so
+[armeabi] Install        : libnative_camera_r4.4.0.so => libs/armeabi/libnative_camera_r4.4.0.so
+[armeabi] Install        : libopencv_java.so => libs/armeabi/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 11 in ./AndroidManifest.xml    
+[armeabi] Install        : libQR.so => libs/armeabi/libQR.so
+[armeabi] Install        : libnative_camera_r2.2.0.so => libs/armeabi/libnative_camera_r2.2.0.so
+[armeabi] Install        : libnative_camera_r2.3.3.so => libs/armeabi/libnative_camera_r2.3.3.so
+[armeabi] Install        : libnative_camera_r3.0.1.so => libs/armeabi/libnative_camera_r3.0.1.so
+[armeabi] Install        : libnative_camera_r4.0.0.so => libs/armeabi/libnative_camera_r4.0.0.so
+[armeabi] Install        : libnative_camera_r4.0.3.so => libs/armeabi/libnative_camera_r4.0.3.so
+[armeabi] Install        : libnative_camera_r4.1.1.so => libs/armeabi/libnative_camera_r4.1.1.so
+[armeabi] Install        : libnative_camera_r4.2.0.so => libs/armeabi/libnative_camera_r4.2.0.so
+[armeabi] Install        : libnative_camera_r4.3.0.so => libs/armeabi/libnative_camera_r4.3.0.so
+[armeabi] Install        : libnative_camera_r4.4.0.so => libs/armeabi/libnative_camera_r4.4.0.so
+[armeabi] Install        : libopencv_java.so => libs/armeabi/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 11 in ./AndroidManifest.xml    
+[armeabi] Compile++ thumb: QR <= QR.cpp
+[armeabi] SharedLibrary  : libQR.so
+[armeabi] Install        : libQR.so => libs/armeabi/libQR.so
+[armeabi] Install        : libnative_camera_r2.2.0.so => libs/armeabi/libnative_camera_r2.2.0.so
+[armeabi] Install        : libnative_camera_r2.3.3.so => libs/armeabi/libnative_camera_r2.3.3.so
+[armeabi] Install        : libnative_camera_r3.0.1.so => libs/armeabi/libnative_camera_r3.0.1.so
+[armeabi] Install        : libnative_camera_r4.0.0.so => libs/armeabi/libnative_camera_r4.0.0.so
+[armeabi] Install        : libnative_camera_r4.0.3.so => libs/armeabi/libnative_camera_r4.0.3.so
+[armeabi] Install        : libnative_camera_r4.1.1.so => libs/armeabi/libnative_camera_r4.1.1.so
+[armeabi] Install        : libnative_camera_r4.2.0.so => libs/armeabi/libnative_camera_r4.2.0.so
+[armeabi] Install        : libnative_camera_r4.3.0.so => libs/armeabi/libnative_camera_r4.3.0.so
+[armeabi] Install        : libnative_camera_r4.4.0.so => libs/armeabi/libnative_camera_r4.4.0.so
+[armeabi] Install        : libopencv_java.so => libs/armeabi/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Compile++ thumb: QR <= QR.cpp
+[armeabi-v7a] Prebuilt       : libopencv_java.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libQR.so
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r2.2.0.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r2.3.3.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r3.0.1.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.0.0.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.0.3.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.1.1.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.2.0.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.3.0.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Prebuilt       : libnative_camera_r4.4.0.so <= /home/costin/Android/adt-bundle-linux-x86_64-20131030/OpenCV-2.4.8-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:detection_based_tracker: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:native_activity: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Gdbserver      : [arm-linux-androideabi-4.6] libs/armeabi-v7a/gdbserver
+[armeabi-v7a] Gdbsetup       : libs/armeabi-v7a/gdb.setup
+[armeabi-v7a] Install        : libnative_activity.so => libs/armeabi-v7a/libnative_activity.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build 
+Android NDK: WARNING:jni/Android.mk:mixed_sample: non-system libraries in linker flags: -lopencv_java    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[armeabi-v7a] Install        : libmixed_sample.so => libs/armeabi-v7a/libmixed_sample.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****

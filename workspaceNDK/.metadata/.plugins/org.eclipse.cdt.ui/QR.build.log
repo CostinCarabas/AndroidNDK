@@ -1,0 +1,17 @@
+
+**** Build of configuration Default for project QR ****
+
+/home/costin/Downloads/poli/ndk/android-ndk-r9d/ndk-build all 
+[armeabi-v7a] Install        : libQR.so => libs/armeabi-v7a/libQR.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
