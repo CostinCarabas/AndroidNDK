@@ -3,13 +3,15 @@
 	<storageModule moduleId="org.eclipse.cdt.core.settings">
 		<cconfiguration id="com.android.toolchain.gcc.1515219253">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.android.toolchain.gcc.1515219253" moduleId="org.eclipse.cdt.core.settings" name="Default">
-				<externalSettings/>
+				<externalSettings>
+					<externalSetting/>
+				</externalSettings>
 				<extensions>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.MakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
-					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
@@ -18,16 +20,27 @@
 			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 				<configuration artifactName="${ProjName}" buildProperties="" description="" id="com.android.toolchain.gcc.1515219253" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
 					<folderInfo id="com.android.toolchain.gcc.1515219253.1649698015" name="/" resourcePath="">
-						<toolChain id="com.android.toolchain.gcc.369100344" name="com.android.toolchain.gcc" superClass="com.android.toolchain.gcc">
+						<toolChain id="com.android.toolchain.gcc.369100344" name="com.android.toolchain.gcc" superClass="com.android.toolchain.gcc" unusedChildren="com.android.gcc.compiler">
 							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.android.targetPlatform.965716656" isAbstract="false" superClass="com.android.targetPlatform"/>
-							<builder id="com.android.builder.353713653" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Android Builder" superClass="com.android.builder">
-								<outputEntries>
-									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="obj"/>
-									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="libs"/>
-								</outputEntries>
-							</builder>
-							<tool id="com.android.gcc.compiler.9196284" name="Android GCC Compiler" superClass="com.android.gcc.compiler">
-								<inputType id="com.android.gcc.inputType.2117835005" superClass="com.android.gcc.inputType"/>
+							<builder id="com.android.builder.151157989" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Android Builder" superClass="com.android.builder"/>
+							<tool id="com.android.gcc.compiler.371788667" name="Android GCC Compiler" superClass="com.android.gcc.compiler">
+								<option id="com.android.gcc.option.includePath.2065974924" superClass="com.android.gcc.option.includePath" valueType="includePath">
+									<listOptionValue builtIn="false" value="/usr/include"/>
+									<listOptionValue builtIn="false" value="/home/costin/Android/workspaceNDK/OpenCV-2.4.8-android-sdk/sdk/native/jni/include/opencv2"/>
+								</option>
+								<inputType id="com.android.gcc.inputType.1807324572" superClass="com.android.gcc.inputType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<folderInfo id="com.android.toolchain.gcc.1515219253.1584093184" name="/" resourcePath="jni">
+						<toolChain id="com.android.toolchain.gcc.612886422" name="com.android.toolchain.gcc" superClass="com.android.toolchain.gcc" unusedChildren="com.android.gcc.compiler">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.android.targetPlatform" isAbstract="false" superClass="com.android.targetPlatform"/>
+							<tool id="com.android.gcc.compiler.711190370" name="Android GCC Compiler" superClass="com.android.gcc.compiler.371788667">
+								<option id="com.android.gcc.option.includePath.365125895" superClass="com.android.gcc.option.includePath" valueType="includePath">
+									<listOptionValue builtIn="false" value="/usr/include"/>
+									<listOptionValue builtIn="false" value="/home/costin/Android/workspaceNDK/OpenCV-2.4.8-android-sdk/sdk/native/jni/include/"/>
+								</option>
+								<inputType id="com.android.gcc.inputType.1393501458" superClass="com.android.gcc.inputType"/>
 							</tool>
 						</toolChain>
 					</folderInfo>
@@ -42,9 +55,22 @@
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="QR.null.1000746948" name="QR"/>
 	</storageModule>
+	<storageModule moduleId="refreshScope" versionNumber="1">
+		<resource resourceType="PROJECT" workspacePath="/QR"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.1515219253;com.android.toolchain.gcc.1515219253.1584093184;com.android.gcc.compiler.711190370;com.android.gcc.inputType.1393501458">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.1515219253;com.android.toolchain.gcc.1515219253.898377734;com.android.gcc.compiler.814055275;com.android.gcc.inputType.15781960">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
+		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.1515219253;com.android.toolchain.gcc.1515219253.1649698015;com.android.gcc.compiler.9196284;com.android.gcc.inputType.2117835005">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.1515219253;com.android.toolchain.gcc.1515219253.1649698015;com.android.gcc.compiler.371788667;com.android.gcc.inputType.1807324572">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
 		</scannerConfigBuildInfo>
 	</storageModule>
